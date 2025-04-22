@@ -1,8 +1,5 @@
 # Brain Tumor MRI Classification
 
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.9-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A deep learning project for classifying brain MRI scans to detect glioma tumors.
 ![Sample Images](images/data_example.png)
