@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A deep learning project for classifying brain MRI scans to detect glioma tumors.
-![Sample Images](data_example.png)
+![Sample Images](images/data_example.png)
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
