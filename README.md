@@ -23,17 +23,14 @@ The dataset used is the [Brain Tumor MRI Dataset](https://www.kaggle.com/dataset
 - 926 glioma tumor images
 - 937 no-tumor images
 Results
-The model achieved the following performance metrics:
+The model achieved Accuracy of 99.29%.
+![Results](images/Plots.png)
 
-Accuracy: 92.3%
-Precision: 91.7%
-Recall: 93.1%
-F1 Score: 92.4%
 
 
 
 ## Model Architecture
-The model consists of three convolutional blocks followed by fully connected layers:
+The model consists of three convolutional blocks followed by fully connected layers.
 
 ![Model Architecture](images/model_architecture.png)
 
