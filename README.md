@@ -24,7 +24,7 @@ The dataset used is the [Brain Tumor MRI Dataset](https://www.kaggle.com/dataset
 - 937 no-tumor images
 ## Results
 The model achieved Accuracy of 99.29%.
-![Sample Images](images/Plots.png)
+![Result](images/Plots.png)
 
 
 
@@ -32,6 +32,5 @@ The model achieved Accuracy of 99.29%.
 ## Model Architecture
 The model consists of three convolutional blocks followed by fully connected layers.
 
-![Model Architecture](images/model_architecture.png)
 
 
