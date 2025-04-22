@@ -24,7 +24,7 @@ The dataset used is the [Brain Tumor MRI Dataset](https://www.kaggle.com/dataset
 - 937 no-tumor images
 Results
 The model achieved Accuracy of 99.29%.
-![Results](images/Plots.png)
+![Results](Images/Plots)
 
 
 
