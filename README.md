@@ -7,10 +7,7 @@ A deep learning project for classifying brain MRI scans to detect glioma tumors.
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Results](#results)
-- [SHAP Analysis](#shap-analysis)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+
 
 ## Overview
 This project implements a Convolutional Neural Network (CNN) in PyTorch to classify brain MRI scans as either containing glioma tumors or being tumor-free. The model is trained on grayscale MRI images and uses SHAP (SHapley Additive exPlanations) for model interpretability.
