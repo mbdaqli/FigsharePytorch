@@ -22,7 +22,7 @@ This project implements a Convolutional Neural Network (CNN) in PyTorch to class
 The dataset used is the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) from Kaggle, containing:
 - 926 glioma tumor images
 - 937 no-tumor images
-##Results
+## Results
 The model achieved Accuracy of 99.29%.
 ![Results](images/Plots)
 
