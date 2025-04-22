@@ -13,7 +13,7 @@ The dataset consists of brain MRI scans from [Brain Tumor MRI Dataset](https://w
 - Used SHAP for model explainability
 
 ## Results
-The model achieved 92% accuracy on the test set. SHAP analysis revealed that the model focuses on tumor regions for positive predictions.
+The model achieved 99.29% accuracy on the test set. SHAP analysis revealed that the model focuses on tumor regions for positive predictions.
 
 ## How to Run
 1. Clone this repository
