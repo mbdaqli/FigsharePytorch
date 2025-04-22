@@ -24,7 +24,7 @@ The dataset used is the [Brain Tumor MRI Dataset](https://www.kaggle.com/dataset
 - 926 glioma tumor images
 - 937 no-tumor images
 
-![Sample Images](images/sample_images.png)
+![Sample Images](FIgShareSHAP)
 
 ## Model Architecture
 The model consists of three convolutional blocks followed by fully connected layers:
